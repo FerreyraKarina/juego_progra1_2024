@@ -1,0 +1,16 @@
+pregunta,respuesta,nivel
+1 + 1,2,facil
+2 + 2,4,facil
+3 + 3,6,facil
+5 + 5,10,facil
+4 + 4,8, facil
+10 + 10,20,medio
+20 + 20,40,medio
+30 + 30,60,medio
+40 + 40,80,medio
+50 + 50,100,medio
+100 + 100,200,dificil
+200 + 200,400,dificil
+300 + 300,600,dificil
+400 + 400,800,dificil
+500 + 500,1000,dificil

@@ -1,0 +1,61 @@
+pregunta,respuesta,nivel
+5 + 3,8,facil
+12 - 7,5,facil
+6 x 4,24,facil
+20 / 5,4,facil
+15 + 9,24,facil
+30 - 12,18,facil
+8 x 7,56,facil
+45 / 9,5,facil
+25 + 16,41,facil
+50 - 23,27,facil
+9 x 6,54,facil
+72 / 8,9,facil
+13 + 28,41,facil
+100 - 47,53,facil
+11 x 5,55,facil
+64 / 8,8,facil
+33 + 19,52,facil
+85 - 36,49,facil
+7 x 9,63,facil
+81 / 9,9,facil
+45 + 67,112,medio
+123 - 58,65,medio
+15 x 12,180,medio
+144 / 12,12,medio
+89 + 76,165,medio
+200 - 134,66,medio
+18 x 9,162,medio
+108 / 9,12,medio
+234 + 189,423,medio
+456 - 278,178,medio
+25 x 8,200,medio
+240 / 16,15,medio
+345 + 287,632,medio
+789 - 456,333,medio
+14 x 13,182,medio
+156 / 12,13,medio
+678 + 234,912,medio
+555 - 289,266,medio
+22 x 11,242,medio
+264 / 12,22,medio
+345 + 678 - 234,789,dificil
+12 x 15 + 20,200,dificil
+450 / 15 + 10,40,dificil
+23 x 12 - 76,200,dificil
+890 - 345 + 123,668,dificil
+18 x 25 / 3,150,dificil
+1000 - 567 + 89,522,dificil
+34 x 15 - 210,300,dificil
+720 / 18 + 35,75,dificil
+456 + 789 - 345,900,dificil
+25 x 16 / 4,100,dificil
+2000 - 876 + 234,1358,dificil
+48 x 12 / 8,72,dificil
+567 + 234 - 189,612,dificil
+36 x 25 - 400,500,dificil
+900 / 15 + 40,100,dificil
+789 - 456 + 789,1122,dificil
+42 x 18 / 6,126,dificil
+1500 - 789 + 456,1167,dificil
+55 x 12 - 360,300,dificil
